@@ -1,3 +1,12 @@
+
+
+# THIS IS THE OLD VERSION, NEW HERE
+# https://github.com/dricotec/csgo_gc_inventory-editor
+# THIS IS THE OLD VERSION, NEW HERE
+
+
+
+
 # 🎮 csgo_gc inventory editor
 
 **CSGO-GC-INVENTORY-EDITOR** is a **graphical WPF inventory editor** for [Mikko’s `csgo_gc`](https://github.com/mikkokko/csgo_gc).
